@@ -7,7 +7,6 @@ Tetrominos will be an open-source, free, quick HTML5 / Javascript Tetris clone.
 * Runs on your browser
 * Keyboard support
 * Touch screen support
-* 
 
 # Why?
 
